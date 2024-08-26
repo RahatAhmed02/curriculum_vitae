@@ -1,0 +1,80 @@
+* {
+    font-family: "Merriweather", serif;
+    line-height: 1.6;
+    background-color: rgb(245, 253, 253);
+    color: darkslategray;
+}
+
+h1, h2 {
+    background-color: #102e76;
+    color: rgb(245, 253, 253);
+    text-align: center;
+}
+
+.header {
+    text-align: center;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+ul { 
+    text-align: left;
+	position: relative; 
+	display: inline-block;   
+} 
+
+.long_text {
+    margin: 50px 150px;
+}
+
+.institute {
+    border-style: solid;
+    border-color: #102e76;
+    border-width: 7px;
+    padding: 5px;
+    display: inline-block;
+    border-radius: 50px;
+}
+
+.dates {
+    border-style: solid;
+    border-color: #c1b7ff;
+    border-width: 7px;
+    padding: 5px;
+    display: inline-block;
+    border-radius: 50px;
+}
+
+.short_text {
+    margin: 50px 150px;
+}
+
+.footer {
+    text-align: center;
+}
+
+.form {
+    display: inline-block;
+    text-align: left;
+    margin-top: 20px;
+
+}
+
+.field{
+    margin-top: 20px;
+}
+
+.button{
+    margin-top: 20px;
+    background-color: #abdcef;
+    color: #102e76;
+    border: #102e76;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 30px;
+    font-size: 20px;
+    margin-left: 100px;
+}
